@@ -1,0 +1,38 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499997,
+                "file_path": "results\\baribarian\\My Behavior\\My Behavior-499997.onnx",
+                "reward": 1.0,
+                "creation_time": 1680501264.2062542,
+                "auxillary_file_paths": [
+                    "results\\baribarian\\My Behavior\\My Behavior-499997.pt"
+                ]
+            },
+            {
+                "steps": 500009,
+                "file_path": "results\\baribarian\\My Behavior\\My Behavior-500009.onnx",
+                "reward": 1.0,
+                "creation_time": 1680501264.2966144,
+                "auxillary_file_paths": [
+                    "results\\baribarian\\My Behavior\\My Behavior-500009.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500009,
+            "file_path": "results\\baribarian\\My Behavior.onnx",
+            "reward": 1.0,
+            "creation_time": 1680501264.2966144,
+            "auxillary_file_paths": [
+                "results\\baribarian\\My Behavior\\My Behavior-500009.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
